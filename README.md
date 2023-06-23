@@ -1,4 +1,4 @@
-# ChatGPT Prompt Generators for Midjourney
+# ChatGPT Prompt Generators for Stable Diffusion & Midjourney
 
 Just copy and paste the entire text into chatGPT. 
 These have been tested with GPT4 and GPT3.5, and with Midjourney v4 and v5.
