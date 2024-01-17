@@ -4,6 +4,7 @@ Just copy and paste the entire text into chatGPT.
 
 ## Stable Diffusion
 These have been tested with GPT4 and GPT3.5, and with the Deforum plugin(v3) in Automatic1111 and Vlad.
+* Generic prompt generator → [Link](https://github.com/hashmil/stablediffusion-midjourney-prompts/blob/main/GenericPromptGeneratorGPT.txt)
 * Deforum story prompt generator → [Link](https://github.com/hashmil/stablediffusion-midjourney-prompts/blob/main/deforum-story-prompt-gen.txt)
 
 ## Midjourney
